@@ -1,4 +1,5 @@
 # Hello World!
 
 ## Git Commands
-- [git config](./commands/Config.md)
+- [git config](./commands/config.md)
+- [git init](./commands/Init.md)

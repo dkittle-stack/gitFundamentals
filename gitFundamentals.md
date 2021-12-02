@@ -10,4 +10,11 @@
 * git push - to commit from you to remote
 * git pull - commits exist in the remote but not your local repository
 
-mk
+ctrl + shift + ` opens up terminal in VS in order to start adding to git
+
+
+bones are html
+how it moves javascript
+how it looks css
+
+.wrapper - anythimg with .before signfys class and will chasnger all values with class
